@@ -26,6 +26,7 @@
 
 ### 下载地址
 - 微云：https://share.weiyun.com/2d1d66fb70779a7ee6938c102f25798f 密码：7vtB9P
+- 备用微云：链接：https://share.weiyun.com/5Bf0AYh 密码：f2seyf
 
 ### 浏览器插件安装
 谷歌浏览器
